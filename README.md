@@ -83,22 +83,15 @@ guest@team-hq:~$ ls -la ~/projects
 
 ```text
 total 32
-drwxr-xr-x 8 Arkoprabho-Roy Arkoprabho-Roy 4096 Oct 24 10:42 .
-drwxr-xr-x 5 Arkoprabho-Roy Arkoprabho-Roy 4096 Oct 24 09:15 ..
-drwxrwxr-x 4 Arkoprabho-Roy Arkoprabho-Roy 4096 Oct 24 10:42 <Account-Name>
-drwxrwxr-x 5 Arkoprabho-Roy <teammate>     4096 Oct 19 14:10 forked-tool
-drwxrwx--- 5 Arkoprabho-Roy alpha-team     4096 Oct 22 18:03 project-alpha
-drwxrwx--- 4 Arkoprabho-Roy beta-team      4096 Oct 23 11:27 project-beta
-drwxrwx--- 6 Arkoprabho-Roy delta-team     4096 Oct 21 20:48 project-delta
-drwxrwx--- 4 Arkoprabho-Roy gamma-team     4096 Oct 24 08:55 project-gamma
+drwxr-xr-x 4 Arkoprabho-Roy Arkoprabho-Roy        4096 Oct 24 10:42 .
+drwxr-xr-x 5 Arkoprabho-Roy Arkoprabho-Roy        4096 Oct 24 09:15 ..
+drwxrwxr-x 4 Arkoprabho-Roy Arkoprabho-Roy        4096 Oct 24 13:27 Arkoprabho-Roy
+drwxrwxr-x 8 Arkoprabho-Roy soham-newjourney2     4096 Oct 19 14:10 HelpSphere
 ```
 
 | Project | Description | Status | Stack |
 |---|---|---|---|
-| [`HelpSphere`](https://github.com/Arkoprabho-Roy/HelpSphere) | `<what it does>` | 🟢 Active | `HTML` `CSS` `JS` `PHP` `MySQL/MariaDB` |
-| [`ECHO`](https://github.com/Arkoprabho-Roy/Obsidian-affecio-hacks-26) | `-` | 🟡 In Progress | `Node.js` `PostgreSQL` |
-| [`MediLink`](https://github.com/Arkoprabho-Roy/MediLink) | `-` | 🟡 In Progress | `HTML` `CSS` `JS` `PHP` `MySQL/MariaDB` |
-
+| [`HelpSphere`](https://github.com/Arkoprabho-Roy/HelpSphere) | `HelpSphere connects surplus food and essentials with people who need them, through verified NGOs. Donors give, NGOs collect and verify, and people in need follow every step of their request.`<br> `🏆 3rd place at Innovare, Innovacion'26, IEM Kolkata.` | 🟢 Active | `HTML` `CSS` `JS` `PHP` `MySQL/MariaDB` |
 ---
 
 ### 🧰 `cat ~/.toolchain`
