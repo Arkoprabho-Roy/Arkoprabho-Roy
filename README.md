@@ -89,9 +89,9 @@ drwxrwxr-x 4 Arkoprabho-Roy Arkoprabho-Roy        4096 Oct 24 13:27 Arkoprabho-R
 drwxrwxr-x 8 Arkoprabho-Roy soham-newjourney2     4096 Oct 19 14:10 HelpSphere
 ```
 
-| Project | Description | Status | Stack |
+| Project | Description | Status | Stack | 
 |---|---|---|---|
-| [`HelpSphere`](https://github.com/Arkoprabho-Roy/HelpSphere) | `HelpSphere connects surplus food and essentials with people who need them, through verified NGOs. Donors give, NGOs collect and verify, and people in need follow every step of their request.`<br> `🏆 3rd place at Innovare, Innovacion'26, IEM Kolkata.` | 🟢 Active | `HTML` `CSS` `JS` `PHP` `MySQL/MariaDB` |
+| [`HelpSphere`](https://github.com/Arkoprabho-Roy/HelpSphere) | `HelpSphere connects surplus food and essentials with people who need them, through verified NGOs. Donors give, NGOs collect and verify, and people in need follow every step of their request.`<br> `🏆 3rd place at Innovare, Innovacion'26, IEM Kolkata. `<br> ` | ✅ Complete | `HTML` `CSS` `JS` `PHP` `MySQL/MariaDB` |
 ---
 
 ### 🧰 `cat ~/.toolchain`
@@ -103,9 +103,8 @@ guest@team-hq:~$ cat ~/.toolchain
 ```yaml
 # the stack we build with
 languages:  [Python, JavaScript, Java, Bash, PHP]
-backend:    [FastAPI, PHP, PostgreSQL, MySQL/MariaDB, MongoDB, Node.js, Redis]
-security:   [Nmap, Burp Suite, Wireshark]
-devops:     [Git, Docker, GitHub Actions, Linux]
+backend:    [FastAPI, PHP, PostgreSQL, MySQL/MariaDB]
+security:   [Nmap, Burp Suite, Wireshark, ]
 ```
 
 <div align="center">
