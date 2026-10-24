@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="262" viewBox="0 0 820 262" role="img" aria-labelledby="t d">
+<title id="t">Terminal boot animation</title>
+<desc id="d">A terminal session: guest connects to team-hq over ssh, access is granted, and the collaborate command runs.</desc>
+<defs>
+<clipPath id="win"><rect width="820" height="262" rx="12"/></clipPath>
+<linearGradient id="bar" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#161b22"/><stop offset="1" stop-color="#0f2233"/></linearGradient>
+<clipPath id="c1"><rect x="181.0" y="60" height="26" width="0"><animate attributeName="width" calcMode="discrete" dur="14.0s" repeatCount="indefinite" keyTimes="0;0.0468;0.0507;0.0546;0.0586;0.0625;0.0664;0.0704;0.0743;0.0782;0.0821;0.0861;0.09;0.0939;0.0979;0.1018;0.1057;0.1096;0.9286;1" values="0;9;18;27;36;45;54;63;72;81;90;99;108;117;126;135;144;153;0;0"/></rect></clipPath>
+<clipPath id="c2"><rect x="28" y="150" height="26" width="0"><animate attributeName="width" calcMode="discrete" dur="14.0s" repeatCount="indefinite" keyTimes="0;0.3182;0.3221;0.3261;0.33;0.3339;0.3379;0.3418;0.3457;0.3496;0.3536;0.3575;0.3614;0.3654;0.3693;0.3732;0.3771;0.3811;0.385;0.3889;0.3929;0.3968;0.4007;0.4046;0.4086;0.4125;0.4164;0.4204;0.4243;0.4282;0.4321;0.4361;0.44;0.4439;0.4479;0.4518;0.4557;0.9286;1" values="0;9;18;27;36;45;54;63;72;81;90;99;108;117;126;135;144;153;162;171;180;189;198;207;216;225;234;243;252;261;270;279;288;297;306;315;324;0;0"/></rect></clipPath>
+</defs>
+<g clip-path="url(#win)">
+<rect width="820" height="262" fill="#0d1117"/>
+<rect width="820" height="38" fill="url(#bar)"/>
+<rect y="38" width="820" height="1" fill="#30363d"/>
+<circle cx="24" cy="19" r="6" fill="#ff5f56"/><circle cx="46" cy="19" r="6" fill="#ffbd2e"/><circle cx="68" cy="19" r="6" fill="#27c93f"/>
+<text x="410" y="24" text-anchor="middle" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#8b949e">guest@team-hq: ~</text>
+<g font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="15">
+<text x="28" y="78" opacity="1" xml:space="preserve"><tspan fill="#22d3ee">guest@team-hq:~$ </tspan><animate attributeName="opacity" calcMode="discrete" dur="14.0s" repeatCount="indefinite" keyTimes="0;0.9286;1" values="1;0;0"/></text>
+<text x="181.0" y="78" clip-path="url(#c1)" xml:space="preserve"><tspan fill="#e6edf3">ssh guest@team-hq</tspan></text>
+<text x="28" y="106" opacity="0" xml:space="preserve"><tspan fill="#8b949e">Connecting to team-hq ... </tspan><tspan fill="#3fb950">done</tspan><animate attributeName="opacity" calcMode="discrete" dur="14.0s" repeatCount="indefinite" keyTimes="0;0.1857;0.9286;1" values="0;1;0;0"/></text>
+<text x="28" y="134" opacity="0" xml:space="preserve"><tspan fill="#3fb950">[  OK  ]</tspan><tspan fill="#e6edf3"> Access granted. Welcome, guest.</tspan><animate attributeName="opacity" calcMode="discrete" dur="14.0s" repeatCount="indefinite" keyTimes="0;0.2429;0.9286;1" values="0;1;0;0"/></text>
+<text x="28" y="168" clip-path="url(#c2)" xml:space="preserve"><tspan fill="#22d3ee">guest@team-hq:~$ </tspan><tspan fill="#e6edf3">./collaborate --all</tspan></text>
+<text x="28" y="196" opacity="0" xml:space="preserve"><tspan fill="#8b949e">&gt; all systems nominal. happy hacking.</tspan><animate attributeName="opacity" calcMode="discrete" dur="14.0s" repeatCount="indefinite" keyTimes="0;0.4571;0.9286;1" values="0;1;0;0"/></text>
+<text x="28" y="230" opacity="0" xml:space="preserve"><tspan fill="#22d3ee">guest@team-hq:~$ </tspan><tspan fill="#22d3ee">█<animate attributeName="fill" calcMode="discrete" dur="1s" repeatCount="indefinite" keyTimes="0;0.5" values="#22d3ee;#0d1117"/></tspan><animate attributeName="opacity" calcMode="discrete" dur="14.0s" repeatCount="indefinite" keyTimes="0;0.5;0.9286;1" values="0;1;0;0"/></text>
+</g>
+</g>
+<rect x="0.5" y="0.5" width="819" height="261" rx="12" fill="none" stroke="#30363d"/>
+</svg>
