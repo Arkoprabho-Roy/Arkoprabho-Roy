@@ -69,8 +69,7 @@ My primary roles within the team projects include: Backend
 Developer, Security and Vulnerability Tester, and
 Cybersecurity Lead. 
 
-I also step up to lead projects when the team needs it, most recently
-MediLink.
+I also step up to lead projects whenever the team needs it.
 ```
 
 ---
