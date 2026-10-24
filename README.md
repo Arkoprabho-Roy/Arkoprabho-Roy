@@ -34,20 +34,6 @@ guest
 guest@team-hq:~$ hostname
 team-hq
 
-guest@team-hq:~$ cat about.txt
-```
-
-```text
-We are a team that builds, reviews, and ships projects together.
-This account is dedicated exclusively to my team and group projects.
-No solo experiments here. Every repo is a collaboration.
-
-> Mission : Build secure, reliable and scalable software as a team
-> Focus   : Cybersecurity | Software Engineering | AI | Web Application Development | Research
-> Style   : Pull requests > solo commits
-```
-
-```console
 guest@team-hq:~$ ls /home
 guest  Arkoprabho-Roy
 
@@ -96,12 +82,15 @@ guest@team-hq:~$ ls -la ~/projects
 ```
 
 ```text
-total 5
-d rwx r-x r-x  team  team  4096  .
-d rwx r-x r-x  team  team  4096  ..
-d rwx r-x r-x  team  team  4096  ...
-d rwx r-x r-x  team  team  4096  ....
-d rwx r-x r-x  team  team  4096  HelpSphere/    # <short description
+total 32
+drwxr-xr-x 8 Arkoprabho-Roy Arkoprabho-Roy 4096 Oct 24 10:42 .
+drwxr-xr-x 5 Arkoprabho-Roy Arkoprabho-Roy 4096 Oct 24 09:15 ..
+drwxrwxr-x 4 Arkoprabho-Roy Arkoprabho-Roy 4096 Oct 24 10:42 <Account-Name>
+drwxrwxr-x 5 Arkoprabho-Roy <teammate>     4096 Oct 19 14:10 forked-tool
+drwxrwx--- 5 Arkoprabho-Roy alpha-team     4096 Oct 22 18:03 project-alpha
+drwxrwx--- 4 Arkoprabho-Roy beta-team      4096 Oct 23 11:27 project-beta
+drwxrwx--- 6 Arkoprabho-Roy delta-team     4096 Oct 21 20:48 project-delta
+drwxrwx--- 4 Arkoprabho-Roy gamma-team     4096 Oct 24 08:55 project-gamma
 ```
 
 | Project | Description | Status | Stack |
@@ -185,7 +174,4 @@ logout
 
 [Process completed] — Thanks for visiting. Fork it. Break it. Fix it. Ship it.
 ```
-
-![visitors](https://komarev.com/ghpvc/?username=<Account-Name>&label=SESSIONS&color=0e75b6&style=flat-square)
-
 </div>
