@@ -101,9 +101,12 @@ guest@team-hq:~$ cat ~/.toolchain
 
 ```yaml
 # the stack we build with
-languages:  [Python, JavaScript, Java, Bash, PHP]
-backend:    [FastAPI, PHP, PostgreSQL, MySQL/MariaDB]
-security:   [Nmap, Burp Suite, Wireshark, Exiftool]
+programming languages:  [Python, C, Java]
+frontend:               [HTML, CSS, JavaScript, Bootstrap, React.js]
+backend:                [FastAPI, PHP, PostgreSQL, MySQL/MariaDB]
+tools:                  [GitHub, VS Code, Postman, Code::Blocks, Apache NetBeans, IDLE, Oracle VirtualBox]
+security:               [Kali Linux, Nmap, Burp Suite, Wireshark, Exiftool]
+others:                 [Java Swing, Shell Scripting, Ubuntu Linux]
 ```
 
 <div align="center">
