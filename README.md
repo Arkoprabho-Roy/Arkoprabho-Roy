@@ -90,8 +90,8 @@ drwxrwxr-x 8 Arkoprabho-Roy soham-newjourney2     4096 Oct 19 14:10 HelpSphere
 
 <br>
 
-- **Stack:** HTML, CSS, JavaScript, PHP, MySQL/MariaDB
-- **My Role:** Backend Developer, Security & Vulnerability Tester
+- **Stack:** `HTML, CSS, JavaScript, PHP, MySQL/MariaDB`
+- **My Role:** `Backend Developer, Security & Vulnerability Tester`
 - **Team:** [@soham-newjourney2](https://github.com/soham-newjourney2) · [@srijoyeemisra](https://github.com/srijoyeemisra) · [@blacksayan6](https://github.com/blacksayan6)
 - **Repo:** [HelpSphere](https://github.com/Arkoprabho-Roy/HelpSphere)
 </details>
