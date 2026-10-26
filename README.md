@@ -88,10 +88,16 @@ drwxrwxr-x 4 Arkoprabho-Roy Arkoprabho-Roy        4096 Oct 24 13:27 Arkoprabho-R
 drwxrwxr-x 8 Arkoprabho-Roy soham-newjourney2     4096 Oct 19 14:10 HelpSphere
 ```
 
-| Project | Description | Status | Stack | 
-|---|---|---|---|
-| [HelpSphere](https://github.com/Arkoprabho-Roy/HelpSphere) | HelpSphere connects surplus food and essentials with people who need them, through verified NGOs. Donors give, NGOs collect and verify, and people in need follow every step of their request.<br> 🏆 3rd place at Innovare, Innovacion'26, IEM Kolkata. <br>  In collaboration with [@soham-newjourney2](https://github.com/soham-newjourney2) · [@srijoyeemisra](https://github.com/srijoyeemisra) · [@blacksayan6](https://github.com/blacksayan6) <br> **My role:** Backend Developer, Security and Vulnerability Tester | ✅ Complete | HTML, CSS, JavaScript, PHP, MySQL/MariaDB |
----
+<details>
+<summary><b>🚀 HelpSphere</b> · ✅ Complete · 🏆 3rd place at Innovare @ Innovacion'26, IEM Kolkata</summary>
+
+<br>
+
+- **Stack:** HTML, CSS, JavaScript, PHP, MySQL/MariaDB
+- **My Role:** Backend Developer, Security & Vulnerability Tester
+- **Team:** [@soham-newjourney2](https://github.com/soham-newjourney2) · [@srijoyeemisra](https://github.com/srijoyeemisra) · [@blacksayan6](https://github.com/blacksayan6)
+- **Repo:** [HelpSphere](https://github.com/Arkoprabho-Roy/HelpSphere)
+</details>
 
 ### 🧰 `cat ~/.toolchain`
 
