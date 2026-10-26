@@ -53,9 +53,6 @@ guest@team-hq:~$ cat /home/Arkoprabho-Roy/bio.txt
 ```
 
 ```text
-Hi, I'm Arkoprabho Roy, a second year BTECH CSE(AIML) student at
-Institute of Engineering and Management, Salt Lake.
-
 I'm a student who's passionate about cybersecurity, and I bring a
 security-first approach to every team I join: I review code with an
 eye for bugs and vulnerabilities, and aim to catch them early before
